@@ -34,11 +34,12 @@
             // lblHello
             // 
             this.lblHello.AutoSize = true;
+            this.lblHello.ForeColor = System.Drawing.Color.Red;
             this.lblHello.Location = new System.Drawing.Point(76, 99);
             this.lblHello.Name = "lblHello";
-            this.lblHello.Size = new System.Drawing.Size(122, 13);
+            this.lblHello.Size = new System.Drawing.Size(152, 13);
             this.lblHello.TabIndex = 0;
-            this.lblHello.Text = "Testing Testing... 1, 2, 3";
+            this.lblHello.Text = "Testing Testing testing Testing";
             // 
             // Form1
             // 
